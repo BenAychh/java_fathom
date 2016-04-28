@@ -2,7 +2,9 @@ bin
 lib
 target
 reports
+Java_Fathom
+.settings
+.classpath
+.DS_Store
+maven
 *~
-
-
-
